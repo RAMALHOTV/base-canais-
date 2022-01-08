@@ -31,11 +31,4 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/base-24-horas-/main/README.md</externallink>
 </item>
 
-<item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-04 Cine Sky[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://capas.webplay.fun/CINESKY.png</thumbnail>
-<fanart>http://capas.webplay.fun/CINESKY.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/cine-pipoca-2/main/README.md</externallink>
-</item>
 
