@@ -44,6 +44,6 @@
 <link>http://ignorame</link>
 <thumbnail>http://tvwin.com.br/wp-content/uploads/2014/01/web_tv.png</thumbnail>
 <fanart>http://tvwin.com.br/wp-content/uploads/2014/01/web_tv.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
+<externallink>https://raw.</externallink>
 </item>
 
