@@ -44,6 +44,6 @@
 <link>http://ignorame</link>
 <thumbnail>http://tvwin.com.br/wp-content/uploads/2014/01/web_tv.png</thumbnail>
 <fanart>http://tvwin.com.br/wp-content/uploads/2014/01/web_tv.png</fanart>
-<externallink>https://raw.</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/webtv/main/README.md</externallink>
 </item>
 
