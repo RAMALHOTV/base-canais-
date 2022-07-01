@@ -26,6 +26,14 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/basef4mTester/main/README.md</externallink>
 </item>
 
+<item>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-04 [/COLOR] [COLOR yellow]|[/COLOR][COLOR green][B] PLUTO TV[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1_400x400.jpg</thumbnail>
+<fanart>https://media.gazetadopovo.com.br/2020/08/27181228/Pluto-TV-660x372.jpeg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
+</item>
+
 
 
 
