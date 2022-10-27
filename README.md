@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -00[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV Vip [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>http://assistaiptvplay.com/get.php?username=987654321&password=987654321&type=m3u_plus</externallink>
-</item>
+
 
 <item>
 <title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -01[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV  [/B][/COLOR]</title>
