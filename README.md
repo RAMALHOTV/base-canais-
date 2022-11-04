@@ -38,10 +38,3 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
 </item>
 
-<item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-04 [/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] CANAL RICOS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://ia904608.us.archive.org/6/items/logo-canal-ricos-fundo-branco/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
-<fanart>https://ia804605.us.archive.org/5/items/v-mix-capture-07-julho-2020-20-21-21/vMix%20Capture%2007%20julho%202020%2020-21-21.png</fanart>
-<externallink>https://5d82644094cc0.streamlock.net:443/ricostv/ricostv/playlist.m3u8</externallink>
-</item>
