@@ -38,3 +38,11 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
 </item>
 
+<item>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] Copa do Mundo[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] FIFA de 2022[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://img.freepik.com/vetores-premium/copa-do-mundo-fifa-qatar-2022-logo-estilizado-vector-ilustracao-isolada-com-futebol_633888-126.jpg?w=2000</thumbnail>
+<fanart>https://img.freepik.com/vetores-premium/copa-do-mundo-fifa-qatar-2022-logo-estilizado-vector-ilustracao-isolada-com-futebol_633888-126.jpg?w=2000</fanart>
+<externallink>https://pastebin.com/raw/Y8mmWW3Q</externallink>
+</item>
+
