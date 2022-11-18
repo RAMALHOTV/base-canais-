@@ -43,6 +43,6 @@
 <link>http://ignorame</link>
 <thumbnail>https://img.freepik.com/vetores-premium/copa-do-mundo-fifa-qatar-2022-logo-estilizado-vector-ilustracao-isolada-com-futebol_633888-126.jpg?w=2000</thumbnail>
 <fanart>https://img.freepik.com/vetores-premium/copa-do-mundo-fifa-qatar-2022-logo-estilizado-vector-ilustracao-isolada-com-futebol_633888-126.jpg?w=2000</fanart>
-<externallink>https://pastebin.com/raw/Y8mmWW3Q</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/canaisnovos/main/README.md</externallink>
 </item>
 
